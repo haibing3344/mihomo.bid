@@ -32,9 +32,9 @@ head:
   <p class="description">基于Mihomo(Clash Meta)核心的新一代网络代理工具</p>
   <p class="tagline">界面简洁清晰，功能强大，全平台支持</p>
   <div class="action">
-    <a href="/download" class="primary">立即下载</a>
+    <a href="/download" class="secondary">立即下载</a>
     <a href="/guide" class="secondary">使用教程</a>
-    <a href="/docs/subscribe" class="secondary">🎉机场推荐</a>
+    <a href="/docs/subscribe" class="primary">🎉机场推荐</a>
   </div>
 </div>
 
