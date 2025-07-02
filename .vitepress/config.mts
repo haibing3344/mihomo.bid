@@ -22,7 +22,7 @@ export default defineConfig({
       { text: '首页', link: '/' },
       { text: '下载', link: '/download.md' },
       { text: '使用教程', link: '/guide.md' },
-      { text: '🎉机场推荐', link: '/docs/subscribe.md' },
+      { text: '🎉机场推荐', link: 'https://jichangtuijian.uk' },
     ],
 
     sidebar: [
@@ -31,7 +31,7 @@ export default defineConfig({
         items: [
           { text: '使用教程', link: '/guide.md' },
           { text: '常见问题', link: '/faq.md' },
-          { text: '🎉机场推荐', link: '/docs/subscribe.md' },
+          { text: '🎉机场推荐', link: 'https://jichangtuijian.uk' },
         ],
       },
       {

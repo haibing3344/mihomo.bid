@@ -34,7 +34,7 @@ head:
   <div class="action">
     <a href="/download" class="secondary">立即下载</a>
     <a href="/guide" class="secondary">使用教程</a>
-    <a href="/docs/subscribe" class="primary">🎉机场推荐</a>
+    <a href="https://jichangtuijian.uk" class="primary">🎉机场推荐</a>
   </div>
 </div>
 
