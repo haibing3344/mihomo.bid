@@ -148,7 +148,7 @@ Mihomo Party支持通过WebDav进行配置备份。在"设置"页面中，您可
 - [Mihomo Party 官方讨论区](https://github.com/mihomo-party-org/mihomo-party/issues)
 - [Mihomo Party 版本更新日志](https://github.com/mihomo-party-org/mihomo-party/releases)
 
-- 友情链接：<a href="https://jichangtuijian.uk" target="_blank">机场推荐</a> &nbsp; &nbsp;<a href="https://1rmb.org" target="_blank">一元机场</a> &nbsp; &nbsp;   <a href="https://youxinyun.bid" target="_blank">优信云机场</a> &nbsp; &nbsp;   <a href="https://www.clashcn.org" target="_blank">Clash for windows</a> &nbsp; &nbsp; <a href="https://3mao.bid" target="_blank">三毛机场</a> &nbsp; &nbsp;<a href="https://mojie.uk" target="_blank">魔戒机场</a>&nbsp; &nbsp;<a href="https://mihomoparty.bid" target="_blank">Mihomo Party</a>&nbsp; &nbsp;<a href="https://karing.uk" target="_blank">Karing客户端</a>&nbsp; &nbsp;<a href="https://nsloon.uk" target="_blank">Loon客户端</a>&nbsp; &nbsp;<a href="https://stashapp.uk" target="_blank">Stash客户端</a>&nbsp; &nbsp;<a href="https://2yuan.uk" target="_blank">2元机场</a>&nbsp; &nbsp;<a href="https://taoqitu.uk" target="_blank">淘气兔机场</a>&nbsp; &nbsp;<a href="https://baokemeng.bid" target="_blank">宝可梦机场</a>&nbsp; &nbsp;<a href="https://yijc.org" target="_blank">一元机场</a>
+- 友情链接：<a href="https://jichangtuijian.uk" target="_blank">机场推荐</a> 
 
 
 <div class="footer">
