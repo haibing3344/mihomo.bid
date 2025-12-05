@@ -38,14 +38,21 @@ head:
   </div>
 </div>
 
+
+::: tip 提示
+Mihomo Party 已更名为[Clash Party](https://clashparty.men)，后续所有更新和维护都将在Clash Party项目进行。
+:::
+
 ## Mihomo Party 介绍
+
+
 
 Mihomo Party是基于Mihomo(Clash Meta)核心的新一代网络代理工具，界面简洁清晰，功能强大。Mihomo Party 支持 Windows、macOS 以及 Linux 等所有主要桌面操作系统，能广泛满足不同用户的需求。
 
 随着2023年Clash for Windows删库事件后，Clash Verge归档、Clash删库、Clash Meta改名为Mihomo，诸多相关软件受到影响。不过之后也崛起了一批新的客户端，Clash Verge Rev延续了Clash Verge功能继续开发、Clash Nyanpasu崛起、而Mihomo Party则是2024年全新开发的网络代理客户端，它基于Clash Meta更名后的Mihomo内核，拥有强大而全面的网络代理功能。
 
 ::: tip 提示
-Mihomo Party 由于内部管理问题，曾经历了暂时的项目关闭，不过currently恢复开发，请大家放心使用。
+Mihomo Party 已更名为[Clash Party](https://clashparty.men)，后续所有更新和维护都将在Clash Party项目进行。
 :::
 
 ## 核心优势

@@ -22,7 +22,6 @@ import { ref } from 'vue'
 - 套餐价格会根据套餐的流量、速度和设备数而有所不同。
 - 根据您的需求和预算选择合适的套餐。
 :::
-
 ## 流量估算参考表
 
 | 使用场景 | 预估每小时流量消耗 | 建议月流量 |
@@ -41,7 +40,7 @@ import { ref } from 'vue'
 <div class="pricing-card">
   <div class="pricing-title">Cyberguard</div>
   <div class="pricing-price">18.00 <span class="pricing-unit">每月</span></div>
-  <a href="https://c.jichangs.com/cyberguard" target="_blank" class="buy-button">
+  <a href="https://c.jichangs.com/cyberguard" target="_blank" rel="nofollow" class="buy-button">
     <i class="icon-cart"></i> 立即订阅
   </a>
     
@@ -63,15 +62,15 @@ import { ref } from 'vue'
 </div>
 
 <div class="pricing-card">
-  <div class="pricing-title">优信云<span style="color: red;"><b>👍推荐</b></span></div>
+  <div class="pricing-title">扬帆云<span style="color: red;"><b>👍推荐</b></span></div>
   <div class="pricing-price">¥15.00 <span class="pricing-unit">每月</span></div>
-  <a href="https://www.youxin66.net/#/register?code=JRtE5uIV" target="_blank" class="buy-button">
+  <a href="https://c.jichangs.com/yfy" target="_blank" rel="nofollow" class="buy-button">
     <i class="icon-cart"></i> 立即订阅
   </a>
     
     套餐特点
 
-- **<span style="color: red;">618年付 7 折优惠码：618</span>**
+- **<span style="color: red;">限时年付 7 折优惠码：618</span>**
 - 流量：100 GB
 - 速度：200 Mbps
 - 设备数：2
@@ -85,18 +84,39 @@ import { ref } from 'vue'
 5. **<span style="color: red;">👍全球接入节点</span>**
 6. **<span style="color: red;">👍解锁流媒体</span>**
 7. 可用等级一节点
-8. **<span style="color: red;">💛年费套餐85折优惠码：yx85 </span>**
+8. **<span style="color: red;">💛年费套餐7折优惠码：618 </span>**
 </div>
-
 <div class="pricing-card">
-  <div class="pricing-title">NanoCloud</div>
-  <div class="pricing-price">¥10.00 <span class="pricing-unit">每月</span></div>
-  <a href="https://c.jichangs.com/nanocloud" target="_blank" class="buy-button">
+  <div class="pricing-title">优信云</div>
+  <div class="pricing-price">¥15.99 <span class="pricing-unit">每月</span></div>
+  <a href="https://c.jichangs.com/youxinyun" target="_blank" rel="nofollow" class="buy-button">
     <i class="icon-cart"></i> 立即订阅
   </a>
     
     套餐特点
-- **<span style="color: red;">618年付优惠码：618SALE20，有效期:6月17日--6月27日。</span>**
+- **<span style="color: red;">💛限时年付85折优码：yx85</span>**
+- 流量：100 GB
+- 速度：200M
+- 设备数：2
+
+使用说明
+
+1. 套餐有效期 30 天
+2. 流量每月购买日重置
+3. 最多支持1个用户同时在线
+4. 工单客服支持
+5. **<span style="color: red;">👍全球接入节点</span>**
+6. **<span style="color: red;">👍解锁流媒体</span>**
+</div>
+<div class="pricing-card">
+  <div class="pricing-title">NanoCloud</div>
+  <div class="pricing-price">¥10.00 <span class="pricing-unit">每月</span></div>
+  <a href="https://c.jichangs.com/nanocloud" target="_blank" rel="nofollow" class="buy-button">
+    <i class="icon-cart"></i> 立即订阅
+  </a>
+    
+    套餐特点
+
 - 流量：300 GB
 - 速度：500 Mbps
 - 设备数：5
@@ -115,7 +135,7 @@ import { ref } from 'vue'
 <div class="pricing-card">
   <div class="pricing-title">宝可梦星云</div>
   <div class="pricing-price">¥5.90 <span class="pricing-unit">每月</span></div>
-  <a href="https://c.jichangs.com/pokemon" target="_blank" class="buy-button">
+  <a href="https://c.jichangs.com/pokemon" target="_blank" rel="nofollow" class="buy-button">
     <i class="icon-cart"></i> 立即订阅
   </a>
     
@@ -136,14 +156,38 @@ import { ref } from 'vue'
 </div>
 
 <div class="pricing-card">
-  <div class="pricing-title"><span style="color: red;">XXYUN</span></div>
-  <div class="pricing-price">¥8.88 <span class="pricing-unit" >每月</span></div>
-  <a href="https://xxyun.de/JAKFEwKc.html" target="_blank" class="buy-button">
+  <div class="pricing-title"><span style="color: red;">CCYZ</span></div>
+  <div class="pricing-price">¥15.00 <span class="pricing-unit" >每月</span></div>
+  <a href="https://ccyz.org/6IN40sF3.html" target="_blank" rel="nofollow" class="buy-button">
     <i class="icon-cart"></i> 立即订阅
   </a>
     
     套餐特点
-- **<span style="color: red;">618 85折优惠码：xxyun618</span>**
+- **<span style="color: red;">新用户95折优惠码：ccyz</span>**
+- 流量：100 GB
+- 速度：300Mbps
+- 设备数：不限制
+
+使用说明
+
+0. **<span style="color: red;">新用户免费试用12小时</span>**
+1. 流量: 150GB 丨每月订单日重置
+2. BGP＋IEPL专线丨500M带宽保障
+3. 不限设备使用
+4. 7x24在线客户服务支持
+5. 解锁: Netflix, Disney+, ChatGPT 等
+
+</div>
+
+<div class="pricing-card">
+  <div class="pricing-title"><span style="color: red;">XXYUN</span></div>
+  <div class="pricing-price">¥8.88 <span class="pricing-unit" >每月</span></div>
+  <a href="https://c.jichangs.com/xxyun" target="_blank" rel="nofollow" class="buy-button">
+    <i class="icon-cart"></i> 立即订阅
+  </a>
+    
+    套餐特点
+- **<span style="color: red;">新用户85折优惠码：xxyun85</span>**
 - 流量：100 GB
 - 速度：800Mbps
 - 设备数：不限制
@@ -161,7 +205,7 @@ import { ref } from 'vue'
 <div class="pricing-card">
   <div class="pricing-title"><span style="color: red;">老百姓机场</span></div>
   <div class="pricing-price">¥6.00 <span class="pricing-unit" >每月</span></div>
-  <a href="https://xn--mes53dm4ex3lhhtdb891k3sd.com/#/register?code=lfZ9QIT8" target="_blank" class="buy-button">
+  <a href="https://c.jichangs.com/laobaixing" target="_blank" rel="nofollow" class="buy-button">
     <i class="icon-cart"></i> 立即订阅
   </a>
     
@@ -182,7 +226,7 @@ import { ref } from 'vue'
 <div class="pricing-card">
   <div class="pricing-title">TNTCloud</div>
   <div class="pricing-price">¥30.00 <span class="pricing-unit" style="color: red;">每季</span></div>
-  <a href="https://c.jichangs.com/tnt" target="_blank" class="buy-button">
+  <a href="https://c.jichangs.com/tnt" target="_blank" rel="nofollow" class="buy-button">
     <i class="icon-cart"></i> 立即订阅
   </a>
     
@@ -206,7 +250,7 @@ import { ref } from 'vue'
 <div class="pricing-card">
   <div class="pricing-title">好好云</div>
   <div class="pricing-price">¥10.00 <span class="pricing-unit">每月</span></div>
-  <a href="https://52hhy.com/register?code=EAkkeWkx" target="_blank" class="buy-button">
+  <a href="https://c.jichangs.com/hhy" target="_blank" rel="nofollow" class="buy-button">
     <i class="icon-cart"></i> 立即订阅
   </a>
     
@@ -230,9 +274,9 @@ import { ref } from 'vue'
 </div>
 
 <div class="pricing-card">
-  <div class="pricing-title">鱼云</div>
+  <div class="pricing-title">渔云</div>
   <div class="pricing-price">¥9.00 <span class="pricing-unit">每月</span></div>
-  <a href="https://cloudfisher.one/web/#/login?code=Xrd2NWzo" target="_blank" class="buy-button">
+  <a href="https://c.jichangs.com/fisher" target="_blank" rel="nofollow" class="buy-button">
     <i class="icon-cart"></i> 立即订阅
   </a>
     
@@ -257,7 +301,7 @@ import { ref } from 'vue'
 <div class="pricing-card">
   <div class="pricing-title">流量光机场*<span style="color: red;">注册需翻墙</span>*</div>
   <div class="pricing-price">4.90 <span class="pricing-unit">每月</span></div>
-  <a href="https://llgjc1.com/#/register?code=X4BNUzBu" target="_blank" class="buy-button">
+  <a href="https://c.jichangs.com/llgjc" target="_blank" rel="nofollow" class="buy-button">
     <i class="icon-cart"></i> 立即订阅
   </a>
     
@@ -276,6 +320,32 @@ import { ref } from 'vue'
  5. 通知频道群与工单售后保障 
  6. **<span style="color: red;">🚀 优惠超值，包全年仅需40元</span>**
 </div>
+<div class="pricing-card">
+  <div class="pricing-title">淘气兔</div>
+  <div class="pricing-price">7.80 <span class="pricing-unit">每月</span></div>
+  <a href="https://c.jichangs.com/taoqitu" target="_blank" rel="nofollow" class="buy-button">
+    <i class="icon-cart"></i> 立即订阅
+  </a>
+    
+    套餐特点
+
+- 流量：100 GB
+- 速度：不限速
+- 设备数：25
+
+使用说明
+
+
+1. ✓ 每月流量：100G
+2. ✓ 全中转1倍率(15-30个设备链接)
+3. ✓ IEPL专线均为2倍率
+4. ✓ 支持ChatGPT/奈飞/迪士尼等
+5. ✓ 无退款服务，请悉知
+6. ✓ 请自行配置订阅信息
+7. ✓ 如发现恶意公开订阅立即封号
+8. <span style="color: red;">❌新疆无法使用！请勿下单！</span>
+</div>
+
 </div>
 
 ## 优质靠谱机场推荐：
@@ -284,7 +354,7 @@ import { ref } from 'vue'
 <div class="pricing-card">
   <div class="pricing-title">闪狐云</div>
   <div class="pricing-price">¥20.00 <span class="pricing-unit">每月</span></div>
-  <a href="https://c.jichangs.com/shy" target="_blank" class="buy-button">
+  <a href="https://c.jichangs.com/shy" target="_blank" rel="nofollow" class="buy-button">
     <i class="icon-cart"></i> 立即订阅
   </a>
     
@@ -306,9 +376,90 @@ import { ref } from 'vue'
 </div>
 
 <div class="pricing-card">
+  <div class="pricing-title">疾风云</div>
+  <div class="pricing-price">¥13.99 <span class="pricing-unit">每月</span></div>
+  <a href="https://c.jichangs.com/jifeng" target="_blank" rel="nofollow" class="buy-button">
+    <i class="icon-cart"></i> 立即订阅
+  </a>
+    
+    套餐特点
+- **<span style="color: red;">年费7折优惠-jf2025: 半年9折优惠-JF888</span>**
+- 流量：50 GB
+- 速度：不限速
+- 设备数：无限制
+
+使用说明
+
+
+1. 50GB 使用流量，所有节点x1倍率，晚高峰不限速
+2. 1个 在线客户端
+3. 最高60M速率
+4. 工单客服支持
+5. 支持 Clash、SSR、V2ray节点
+6. 国内中转节点
+7. 解锁流媒体
+8. 可用入门版节点
+</div>
+
+<div class="pricing-card">
+  <div class="pricing-title">尔湾云</div>
+  <div class="pricing-price">¥13.99 <span class="pricing-unit">每月</span></div>
+  <a href="https://c.jichangs.com/erwan" target="_blank" rel="nofollow" class="buy-button">
+    <i class="icon-cart"></i> 立即订阅
+  </a>
+    
+    套餐特点
+- **<span style="color: red;">7折年付优惠码，购买时请输入 ss12</span>**
+- 流量：50 GB
+- 速度：不限速
+- 设备数：无限制
+
+使用说明
+
+
+1. 50GB 使用流量，所有节点x1倍率，晚高峰不限速
+2. 1个 在线客户端
+3. 最高50M速率
+4. 工单客服支持
+5. 支持 Clash、SSR、V2ray节点
+6. 国内中转节点
+7. 解锁流媒体
+8. 可用入门版节点
+</div>
+
+
+<div class="pricing-card">
+  <div class="pricing-title">三番云</div>
+  <div class="pricing-price">¥15.88 <span class="pricing-unit">每月</span></div>
+  <a href="https://c.jichangs.com/3fan" target="_blank" rel="nofollow" class="buy-button">
+    <i class="icon-cart"></i> 立即订阅
+  </a>
+    
+    套餐特点
+- **<span style="color: red;">👑年费七折优惠码：3fan666</span>**
+- 流量：100 GB
+- 速度：300Mbps
+- 设备数：2
+
+使用说明
+
+1. 🔋 流量：100GB（自动重置）
+2. ⚡ 速度：最高 300Mbps 带宽
+3. 📱 设备数：最多 2 台设备在线
+4. 🌐 多国节点：10个国家高速接入，随心切换
+5. 🌍 全球高速稳定网络 | 流畅无忧
+6. 📽️ 全流媒体解锁：Netflix、Disney+、Hulu等
+7. 🎮 AI & 游戏优化：ChatGPT无障碍，畅玩游戏
+8. 💎 IPLC专线：低延迟，无丢包
+9. ☎️ 专属客服：在线售后，贴心保障
+10. 📌 适合日常上网、高清流媒体播放的用户
+
+</div>
+
+<div class="pricing-card">
   <div class="pricing-title">Taishan</div>
   <div class="pricing-price">¥10.00 <span class="pricing-unit">每月</span></div>
-  <a href="https://jp.taishan.pro/register?code=45O5EGR9" target="_blank" class="buy-button">
+  <a href="https://c.jichangs.com/taishan" target="_blank" rel="nofollow" class="buy-button">
     <i class="icon-cart"></i> 立即订阅
   </a>
     
@@ -332,7 +483,7 @@ import { ref } from 'vue'
 <div class="pricing-card">
   <div class="pricing-title">FlyBit</div>
   <div class="pricing-price">¥12.00 <span class="pricing-unit">每月</span></div>
-  <a href="https://flybit.best/#/register?code=o7YHNoqs" target="_blank" class="buy-button">
+  <a href="https://c.jichangs.com/flybit" target="_blank" rel="nofollow" class="buy-button">
     <i class="icon-cart"></i> 立即订阅
   </a>
     
@@ -356,7 +507,7 @@ import { ref } from 'vue'
 <div class="pricing-card">
   <div class="pricing-title">白羊星</div>
   <div class="pricing-price">¥12.00 <span class="pricing-unit">每月</span></div>
-  <a href="https://baiyangxing.com/#/register?code=I6IGk5n6" target="_blank" class="buy-button">
+  <a href="https://c.jichangs.com/byx" target="_blank" rel="nofollow" class="buy-button">
     <i class="icon-cart"></i> 立即订阅
   </a>
     
@@ -381,13 +532,12 @@ import { ref } from 'vue'
 <div class="pricing-card">
   <div class="pricing-title">银河云</div>
   <div class="pricing-price">¥8.00 <span class="pricing-unit">每月/<b>年付98元</b></span></div>
-  <a href="https://inv02.galaxyaff.cc/register?aff=la8LavLb" target="_blank" class="buy-button">
+  <a href="https://c.jichangs.com/galaxy" target="_blank" rel="nofollow" class="buy-button">
     <i class="icon-cart"></i> 立即订阅
   </a>
     
     套餐特点
 
-- **<span style="color: red;">618 85折优惠码：wuyi85。截止6月30号</span>**
 - 流量：50 GB
 - 速度：不限速
 - 设备数：无限制
@@ -408,7 +558,7 @@ import { ref } from 'vue'
 <div class="pricing-card">
   <div class="pricing-title">肥猫云</div>
   <div class="pricing-price">¥72.00 <span class="pricing-unit">每年</span></div>
-  <a href="https://c.jichangs.com/feimao" target="_blank" class="buy-button">
+  <a href="https://c.jichangs.com/feimao" target="_blank" rel="nofollow" class="buy-button">
     <i class="icon-cart"></i> 立即订阅
   </a>
     
@@ -429,9 +579,39 @@ import { ref } from 'vue'
 </div>
 
 <div class="pricing-card">
+  <div class="pricing-title">青云梯</div>
+  <div class="pricing-price">¥96.00 <span class="pricing-unit">每年</span></div>
+  <a href="https://c.jichangs.com/qyt" target="_blank" rel="nofollow" class="buy-button">
+    <i class="icon-cart"></i> 立即订阅
+  </a>
+    
+    套餐特点
+- **<span style="color: red;">适用于小流量用户，相当于月付 8 元</span>**
+- 流量：60 GB
+- 速度：不限速
+- 设备数：无限制
+
+使用说明
+
+- 每月60GB流量 ，所有节点x1倍率，晚高峰不限速
+
+- 季付以上购买日起算每30天自动更新流量
+
+- 全IPLC专线，最大提供2.5GBPs速率
+
+- 原生IP解锁各大流媒体
+
+- 解锁 Chatgpt，Tiktok
+
+- 不限制同时使用客户端数量
+- 高效客服响应
+- 节点包括：香港x20、台湾x10、日本x10、新加坡x10、马来西亚、美国x10、韩国x2、越南x1、菲律宾x1、泰国x1、印度x1、德国x1、法国x1、英国x1、阿根廷x2
+</div>
+
+<div class="pricing-card">
   <div class="pricing-title">Jimmm</div>
   <div class="pricing-price">¥14.00 <span class="pricing-unit">每月</span></div>
-  <a href="https://jimmm.life/register?code=BgQ1LKH5" target="_blank" class="buy-button">
+  <a href="https://c.jichangs.com/jimmm" target="_blank" rel="nofollow" class="buy-button">
     <i class="icon-cart"></i> 立即订阅
   </a>
     
@@ -454,10 +634,34 @@ import { ref } from 'vue'
 
 ## 大流量机场推荐：
 <div class="pricing-container">
+
+<div class="pricing-card">
+  <div class="pricing-title">网际快车</div>
+  <div class="pricing-price">¥6.80 <span class="pricing-unit" style="color: red;">不限时</span></div>
+  <a href="https://c.jichangs.com/wjkc" target="_blank" rel="nofollow" class="buy-button">
+    <i class="icon-cart"></i> 立即订阅
+  </a>
+    
+    套餐特点
+
+- 流量：20 GB
+- 速度：不限速
+- 设备数：无限制
+
+使用说明
+
+1. 流量永不过期
+2. 不限设备数量
+3. 4K视频秒开
+4. 回国家宽，新疆可用，游戏专用节点
+5. **<span style="color: red;">💛月付24元，1800G/每月</span>**
+</div>
+
+
  <div class="pricing-card">
   <div class="pricing-title">魔戒</div>
   <div class="pricing-price">¥14.90 <span class="pricing-unit" style="color: red;">不限时</span></div>
-  <a href="https://c.jichangs.com/mojie" target="_blank" class="buy-button">
+  <a href="https://c.jichangs.com/mojie" target="_blank" rel="nofollow" class="buy-button">
     <i class="icon-cart"></i> 立即订阅
   </a>
     
@@ -476,53 +680,55 @@ import { ref } from 'vue'
 5. ✅不限制网络速度
 </div>
 
-<div class="pricing-card">
-  <div class="pricing-title">旗舰款套餐-大流量</div>
-  <div class="pricing-price">¥9.90 <span class="pricing-unit">每月</span></div>
-  <a href="https://my.cloudlion.me/#/register?code=rLyT9shh" target="_blank" class="buy-button">
+ <div class="pricing-card">
+  <div class="pricing-title">良心云</div>
+  <div class="pricing-price">¥2.00 <span class="pricing-unit" style="color: red;">每月</span></div>
+  <a href="https://c.jichangs.com/liangxinyun" target="_blank" rel="nofollow" class="buy-button">
     <i class="icon-cart"></i> 立即订阅
   </a>
     
     套餐特点
 
-- 流量：1 T 
-- 速度：1000 Mbps
-- 设备数：无限制
-
-使用说明
-
-1. 🚀 优质机场领先者，畅享极速网络
-2. 🍬 每月送你1T甜甜的流量
-3. 🖥 集群部署，保障稳定与高性能
-4. 📱 支持多设备连接，无需限制
-5. ⚡️ 高达1Gbps的极速体验
-6. 🔓 解锁全球流媒体，畅享无阻
-7. 适合追剧、下载等对流量需求较大的同学使用
-</div>
-
-<div class="pricing-card">
-  <div class="pricing-title">网际快车</div>
-  <div class="pricing-price">¥6.80 <span class="pricing-unit" style="color: red;">不限时</span></div>
-  <a href="https://wjkc66.vip?c=APIXRJ" target="_blank" class="buy-button">
-    <i class="icon-cart"></i> 立即订阅
-  </a>
-    
-    套餐特点
-
-- 流量：20 GB
+- 流量：100 G
 - 速度：不限速
 - 设备数：无限制
 
 使用说明
 
-1. 流量永不过期
-2. 不限设备数量
-3. 4K视频秒开
-4. 回国家宽，新疆可用，游戏专用节点
-5. **<span style="color: red;">💛月付24元，1800G/每月</span>**
-</div>
+1. **<span style="color: red;">👌 支持新疆，河南，福建，用户使用，毫无影响</span>**
+2. 🌍 全球覆盖，所有节点1.0倍率，无高倍线路
+3. 📱 支持同时在线20台设备使用
+4. ⚡️ 高达3Gbps带宽，晚高峰观看8K 60fps不卡顿
+5. 🎬 流媒体全面解锁
+6. 🫷 无限制使用行为，无存储节点日志，使用更安心
+7. 🔒 军工级TLS1.3加密，保护你的隐私安全
 </div>
 
+ <div class="pricing-card">
+  <div class="pricing-title">一分机场*<span style="color: red;">注册需翻墙</span>*</div>
+  <div class="pricing-price">¥2.00 <span class="pricing-unit" style="color: red;">每月</span></div>
+  <a href="https://c.jichangs.com/1fen" target="_blank" rel="nofollow" class="buy-button">
+    <i class="icon-cart"></i> 立即订阅
+  </a>
+    
+    套餐特点
+
+- 流量：100 G
+- 速度：20000Mbps
+- 设备数：无限制
+
+使用说明
+
+
+1. ⚡️提供三网高质量线路
+2. 🚀线路带宽最高速度20000Mbps
+3. 🔒全线路安全加密,保护隐私安全！
+4. ⏰每月流量100GB,每30天自动重置流量！
+5. 🎥个人使用不限设备数,解锁Netflix影视
+6. 🈲不允许滥用分享,每日最大套餐20%的使用量，一经发现封号处理
+</div>
+
+</div>
 
 ::: tip 🎉 节点推荐
 - 🚀 [Cyberguard: 解锁Netflix/Hbo/Disney+/Dazn等流媒体,18.00元/月](https://c.jichangs.com/cyberguard)<br>
